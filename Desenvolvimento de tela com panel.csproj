@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Desenvolvimento_de_tela_com_panel</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Captura de tela 2023-04-11 170923.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Captura de tela 2023-04-11 170923.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desenvolvimento de tela com panel/1.0.0": {
+        "runtime": {
+          "Desenvolvimento de tela com panel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desenvolvimento de tela com panel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
